@@ -16,7 +16,7 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^3.0.0",
+    "electron": "^9.4.0",
     "popper.js": "^1.14.4"
   },
   "dependencies": {
